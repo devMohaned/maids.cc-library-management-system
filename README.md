@@ -1,7 +1,9 @@
 This is a task for Maids.cc for Backend Development using Java & Spring Boot.
 
 Clone the Project using your IDE (I am using Intellj)
+
 run the project
+
 run the unit test for descriptive examples
 
 <details><summary>How to interact with the API endpoints?</summary>
