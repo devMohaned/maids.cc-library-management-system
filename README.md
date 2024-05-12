@@ -17,8 +17,9 @@ run the unit test for descriptive examples
   #4 Run Whatever APIs you want or customize the request
 
 </details>
-
+============================================
 To get the collection, click below this line
+============================================
 <details><summary>#1 Copy The Collection for Postman</summary>
 {
 	"info": {
