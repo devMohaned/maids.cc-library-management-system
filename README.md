@@ -1,6 +1,8 @@
 This is a task for Maids.cc for Backend Development using Java & Spring Boot.
 
-Clone the Project using your IDE (I am using Intellj) and run the project, and the unit test for descriptive examples
+Clone the Project using your IDE (I am using Intellj)
+run the project
+run the unit test for descriptive examples
 
 <details><summary>How to interact with the API endpoints?</summary>
   #1 Copy The Collection for Postman
@@ -16,6 +18,7 @@ Clone the Project using your IDE (I am using Intellj) and run the project, and t
 
 </details>
 
+To get the collection, click below this line
 <details><summary>#1 Copy The Collection for Postman</summary>
 {
 	"info": {
